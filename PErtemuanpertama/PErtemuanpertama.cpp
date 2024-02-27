@@ -15,6 +15,8 @@ int main()
 	cout << "Luasnya =" << nLuas << endl;
 
 
+
+	//tes commits / ujicoba 
 	
 
 
